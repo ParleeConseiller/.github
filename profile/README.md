@@ -2,7 +2,7 @@
 
 <img src="./assets/logos/parlee-conseiller-logo.png" alt="Parlee Conseiller logo" width="160">
 
-# Parlee Conseiller
+# Parlee Conseiller 
 
 ### Where Strategy Meets Technology
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logos/parlee-conseiller-logo.png" alt="Parlee Conseiller logo" width="160">
+<img src="assets/logos/parlee-conseiller-logo.png" alt="Parlee Conseiller logo" width="160">
 
 # Parlee Conseiller 
 
